@@ -3,7 +3,7 @@
 The code will be published soon.
 
 ## Paper
-![](./teaser.png)
+![](./teaser.PNG)
 
 [BUDA: Boundless Unsupervised Domain Adaptation in Semantic Segmentation](https://arxiv.org/)  
  [Maxime Bucher](https://maximebucher.github.io/), [Tuan-Hung Vu](https://tuanhungvu.github.io/) , [Matthieu Cord](http://webia.lip6.fr/~cord/), [Patrick Pérez](https://ptrckprz.github.io/)  
