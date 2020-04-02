@@ -12,7 +12,7 @@ The code will be published soon.
 If you find this code useful for your research, please cite our [paper](https://arxiv.org/pdf/):
 
 ```
-@inproceedings{bucher2020buda,
+@article{bucher2020buda,
   title={BUDA: Boundless Unsupervised Domain Adaptation in Semantic Segmentation},
   author={Bucher, Maxime and Vu, Tuan-Hung and Cord, Mathieu and P{\'e}rez, Patrick},
   booktitle={Arxiv},
